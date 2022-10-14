@@ -18,5 +18,5 @@ while (i < list.length){
     const li = document.createElement("li");
     li.innerHTML = item;
     ul.append(li)
-    i++
+    i++;
 }
